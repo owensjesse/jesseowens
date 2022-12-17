@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "You want fire?"
+echo "We'll give you fire!"
 for i in {10..1}
 do
     echo $i
